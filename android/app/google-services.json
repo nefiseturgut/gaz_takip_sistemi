@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136553555445",
+    "project_id": "yangingaz",
+    "storage_bucket": "yangingaz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136553555445:android:9fb6ac6cc01d0359cd6cbc",
+        "android_client_info": {
+          "package_name": "com.mydomain.gaz_takip_sistemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAroCgtVwDJ18q3vmw5IcyWBWNJJPoP1yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
