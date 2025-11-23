@@ -1,5 +1,3 @@
-# bu proje eğitim amaçlı geliştirilmiştir.
-# gaz_takip_sistemi
 # Akıllı Yangın ve Gaz Algılama Sistemi (Smart Fire & Gas Detection System)
 
 <div align="center">
